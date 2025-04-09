@@ -1,5 +1,5 @@
 # Import the module
-Import-Module .\PSPokemon.psd1
+Import-Module .\PSPokeSuite.psd1
 
 # Example 1: Basic Pokémon information retrieval
 Write-Host "Getting information for Pikachu..." -ForegroundColor Yellow
