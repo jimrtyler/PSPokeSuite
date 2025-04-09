@@ -1,4 +1,4 @@
-# PSPokemon.psm1
+# PSPokeSuite.psm1
 
 # Module variables
 $script:ConfigPath = Join-Path -Path $env:USERPROFILE -ChildPath '.pspokemon'
